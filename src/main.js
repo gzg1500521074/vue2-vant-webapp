@@ -7,8 +7,8 @@ import store from './store';
 import 'amfe-flexible';
 
 // 引入样式文件及解决1px像素文件
-import '@/assets/reset.css';
-import '@/assets/border.css';
+import '@/assets/css/reset.css';
+import '@/assets/css/border.css';
 
 // 按需导入vant
 import vant from '@/plugin/vant.js';
