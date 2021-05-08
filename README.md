@@ -24,19 +24,21 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ### 遇到的问题:
 
 1. Syntax Error: Error: ENOENT: no such file or directory, scandir node_modules/node-sass/vendor'
 
+```
 npm rebuild node-sass
+```
+
 
 2. Syntax Error: Error: PostCSS plugin postcss-pxtorem requires PostCSS 8.及配置方式
 
+```
 https://segmentfault.com/a/1190000039711494
+```
+
 
 ### 参考项目：
 
